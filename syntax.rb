@@ -268,4 +268,4 @@ def gems
     # Verify the directory "project.example for more details"
 end
 
-gems
+# HERE YOU CAN CALL SOME EXAMPLE METHOD!
